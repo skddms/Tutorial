@@ -1,6 +1,4 @@
-<?php
-
-echo "a2";
+<?php;
 
 echo "bb";
 
